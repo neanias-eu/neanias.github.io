@@ -31,6 +31,7 @@ The technical documentation of the services is available at [https://docs.neania
   - [CAESAR-REST](https://github.com/SKA-INAF/caesar-rest)
   - [mrcnn](https://github.com/SKA-INAF/mrcnn)
   - [Tiramisu](https://github.com/SKA-INAF/Tiramisu)
+  - [Latent Space Explorer](https://github.com/NEANIAS-Space/LatentSpaceExplorer--Deployment)
 
 ### Core Services
 
