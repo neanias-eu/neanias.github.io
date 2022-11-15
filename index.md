@@ -15,6 +15,7 @@ The technical documentation of the services is available at [https://docs.neania
 ### Atmospheric Services
 
 - ATMO-FLUD Service (A1)
+  - [ATMO-FLUD Web Application](https://gitlab.neanias.eu/a1-service/webapp.git)
 - ATMO-STRESS Service (A2), based on:
   - [ATMO-STRESS web server](https://gitlab.neanias.eu/a2-service/a2-1-service/a2-1-web-app)
   - [ATMO-STRESS worker](https://gitlab.neanias.eu/a2-service/a2-1-service/a2-1-worker)
